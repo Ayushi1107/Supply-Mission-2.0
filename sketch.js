@@ -30,7 +30,7 @@ function setup() {
 	groundSprite.shapeColor=color(255)
 
 
-	box1 = new Box(700,300,50,50);
+	
 
 	engine = Engine.create();
 	world = engine.world;
